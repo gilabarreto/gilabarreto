@@ -1,6 +1,6 @@
 # :vulcan_salute: Greetings!
 
-My name is Victor and I'm a Full Stack Web Developer looking for a position where I can enhance my skill set in web development by implementing solutions to meet business needs; easy going and positive but also responsible, thoughtful and serious about the process, people and results.
+My name is Victor and I'm a Full Stack Web Developer looking for opportunities to enhance my skill set in web development by implementing solutions to meet business needs; easy going and positive but also responsible, thoughtful and serious about the process, people and results.
 
 # :toolbox: Tool Box
 ![](https://img.shields.io/badge/Tools-HTML-blue?style=flat-square&logo=html5&logoColor=white)

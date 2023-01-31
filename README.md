@@ -14,7 +14,7 @@ My name is Victor and I'm a Full Stack Web Developer looking for opportunities t
 
 # :technologist: More about me
 
-- [Resume](https://resume.io/r/Lc8xknv5L "Resume")
+- [Resume](https://gilabarreto.github.io/resume/ "Resume")
 
 # :telephone_receiver: Contact 
 

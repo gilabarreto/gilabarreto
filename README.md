@@ -10,7 +10,6 @@ My name is Victor and I'm a Full Stack Web Developer looking for opportunities t
 ![](https://img.shields.io/badge/Tools-Express-blue?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Code-Ruby-blue?style=flat-square&logo=ruby&logoColor=white)
 
 # :technologist: More about me
 
